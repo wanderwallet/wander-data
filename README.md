@@ -17,7 +17,8 @@ Data for the Wander wallet.
   "Ticker": "string", 
   "Denomination": "number",
   "Logo": "string",
-  "Id": "string"
+  "Id": "string",
+  "flpId": "string"
 }
 ```
 

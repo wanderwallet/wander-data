@@ -1,0 +1,19 @@
+{
+  "name": "wander-data",
+  "version": "1.0.0",
+  "description": "Data for the Wander wallet",
+  "scripts": {
+    "minify-json": "node scripts/minify-json.js",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.2"
+  },
+  "lint-staged": {
+    "tokens/!(*.min).json": [
+      "node scripts/minify-json.js",
+      "git add tokens/*.min.json"
+    ]
+  }
+}

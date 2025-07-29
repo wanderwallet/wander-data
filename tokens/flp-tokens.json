@@ -8,6 +8,14 @@
     "flpId": "11T2aA8M-ZcoEnDqG37Kf2dzEGY2r4_CyYeiN_1VTvU"
   },
   {
+    "Name": "LiquidOps",
+    "Ticker": "LQD",
+    "Denomination": 18,
+    "Logo": "iI9VnQdPXlVl967iAdCY4zJYVBfk5jpr_qab-Hzm4qI",
+    "Id": "n2MhPK0O3yEvY2zW73sqcmWqDktJxAifJDrri4qireI",
+    "flpId": "N0L1lUC-35wgyXK31psEHRjySjQMWPs_vHtTas5BJa8"
+  },
+  {
     "Name": "Number Always Bigger",
     "Ticker": "NAB",
     "Denomination": 8,

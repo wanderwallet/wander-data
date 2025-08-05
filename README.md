@@ -18,7 +18,8 @@ Data for the Wander wallet.
   "Denomination": "number",
   "Logo": "string",
   "Id": "string",
-  "flpId": "string"
+  "flpId": "string",
+  "autoClaim": "boolean"
 }
 ```
 
